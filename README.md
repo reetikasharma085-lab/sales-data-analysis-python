@@ -13,3 +13,12 @@ Python, Pandas, Matplotlib, Google Colab
 ## Files
 - sales.csv - Raw sales data
 - analysis.py - Data cleaning & analysis code
+## Output & Insights
+
+### Product-wise Sales Graph
+![Graph](output-graph.png)
+
+### Key Insights
+- Top City: Delhi (Apna result yaha likhna)
+- Top Product: Laptop (Apna result yaha likhna)
+- Peak Month: April (Apna result yaha likhna)
