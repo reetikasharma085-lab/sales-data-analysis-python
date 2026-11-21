@@ -16,7 +16,7 @@ Python, Pandas, Matplotlib, Google Colab
 ## Output & Insights
 
 ### Product-wise Sales Graph
-![Graph](output-graph.png)
+![Graph](output3.png)
 
 ### Key Insights
 - Top City: Delhi (Apna result yaha likhna)
